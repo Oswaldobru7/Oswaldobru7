@@ -12,7 +12,6 @@ I'm a **Full Stack Developer** with a deep **love for programming** and creating
 
 🌱 Currently learning new technologies and best practices  
 🎮 I enjoy playing video games in my free time  
-💻 I love solving real-world problems through code  
 🤝 Always open to collaborating on open-source projects
 
 ---
